@@ -1,0 +1,2 @@
+# ConfluenceRobot
+Automate your documentation
